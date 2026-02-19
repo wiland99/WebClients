@@ -5075,6 +5075,9 @@
       ],
       "Failed loading group members": [
         "Kon geen groepslid toevoegen."
+      ],
+      "Tax exemption is not supported for this plan": [
+        "Belastingvrijstelling wordt niet ondersteund voor dit abonnement"
       ]
     },
     "error": {
@@ -14494,6 +14497,9 @@
       ],
       "You have successfully unsubscribed": [
         "U bent succesvol afgemeld"
+      ],
+      "Billing information updated": [
+        "Factuurgegevens bijgewerkt"
       ]
     },
     "Success notification": {

@@ -5009,6 +5009,9 @@
       ],
       "Your message cannot be decrypted. The key used to encrypt this message does not match any of the keys associated with your address. If you deleted any of your address keys, try ${ reimportKeyLink } them. ${ learnMoreLink }": [
         "您的消息无法解密。用于加密此消息的密钥与您地址关联的任何密钥均不匹配。如果您删除了任何地址密钥，请尝试 ${ reimportKeyLink } 它们。${ learnMoreLink }"
+      ],
+      "Tax exemption is not supported for this plan": [
+        "此套餐不支持免税"
       ]
     },
     "Error adding participants to a calendar event": {
@@ -10141,7 +10144,7 @@
     },
     "locked_state_storage_banner: info": {
       "Learn more": [
-        "了解更多信息"
+        "了解详情"
       ],
       "upgrade for more storage": [
         "付费扩容"
@@ -14118,6 +14121,9 @@
       ],
       "Message removed from Starred.": [
         "消息已从星标中移除"
+      ],
+      "Billing information updated": [
+        "账单信息已更新"
       ]
     },
     "Success notification": {

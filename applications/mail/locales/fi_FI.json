@@ -5013,6 +5013,9 @@
       ],
       "Failed loading group members": [
         "Ryhmän jäsenten lataaminen epäonnistui"
+      ],
+      "Tax exemption is not supported for this plan": [
+        "Verovapautusta ei tueta tälle tilaukselle"
       ]
     },
     "error": {
@@ -14241,6 +14244,9 @@
       ],
       "You have successfully unsubscribed": [
         "Tilauksesi on lopetettu"
+      ],
+      "Billing information updated": [
+        "Laskutustiedot päivitetty"
       ]
     },
     "Success notification": {

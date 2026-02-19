@@ -5076,6 +5076,9 @@
       ],
       "Failed loading group members": [
         "Gruppenmitglieder konnten nicht geladen werden"
+      ],
+      "Tax exemption is not supported for this plan": [
+        "Steuerbefreiung wird für diesen Plan nicht unterstützt"
       ]
     },
     "error": {
@@ -14495,6 +14498,9 @@
       ],
       "You have successfully unsubscribed": [
         "Du hast das Abonnement erfolgreich gekündigt."
+      ],
+      "Billing information updated": [
+        "Rechnungsinformationen aktualisiert"
       ]
     },
     "Success notification": {

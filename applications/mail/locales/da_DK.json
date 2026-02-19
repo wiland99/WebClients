@@ -5075,6 +5075,9 @@
       ],
       "Failed loading group members": [
         "Kunne ikke indlæse gruppemedlemmer"
+      ],
+      "Tax exemption is not supported for this plan": [
+        "Skattefritagelse understøttes ikke for dette abonnement"
       ]
     },
     "error": {
@@ -14494,6 +14497,9 @@
       ],
       "You have successfully unsubscribed": [
         "Du har afmeldt dig"
+      ],
+      "Billing information updated": [
+        "Faktureringsoplysninger opdateret"
       ]
     },
     "Success notification": {

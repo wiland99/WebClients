@@ -5069,6 +5069,9 @@
       ],
       "Failed loading group members": [
         "Misslyckades att ladda gruppmedlemmar"
+      ],
+      "Tax exemption is not supported for this plan": [
+        "Momsbefrielse stöds inte för detta paket"
       ]
     },
     "error": {
@@ -14473,6 +14476,9 @@
       ],
       "You have successfully unsubscribed": [
         "Du har avslutat din prenumeration"
+      ],
+      "Billing information updated": [
+        "Faktureringsinformation uppdaterad"
       ]
     },
     "Success notification": {

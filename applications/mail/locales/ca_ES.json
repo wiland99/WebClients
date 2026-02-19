@@ -5075,6 +5075,9 @@
       ],
       "Network error": [
         "Error de xarxa"
+      ],
+      "Tax exemption is not supported for this plan": [
+        "Aquest pla no admet l'exempció d'impostos"
       ]
     },
     "error": {
@@ -14494,6 +14497,9 @@
       ],
       "You have successfully unsubscribed": [
         "Heu anul·lat la subscripció amb èxit"
+      ],
+      "Billing information updated": [
+        "S'ha actualitzat la informació de facturació"
       ]
     },
     "Success notification": {
